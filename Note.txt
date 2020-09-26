@@ -1,0 +1,1 @@
+Ini merupakan program pertama yang dibuat saat melakukan pembelajaran bahasa Javascript.
